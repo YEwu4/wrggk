@@ -7,12 +7,18 @@
 
 [√] 自动答题
 
+有能力的还可以写个多线程，csv读取多个账号等等
+
 # 使用方法一
 1.安装python3 
 
-2.pip install requests
+2.安装requests库
 
-3.打开cmd命令行，执行python3 main.py(注意脚本路径)
+pip install requests
+
+3.下载main.py文件
+
+4.打开cmd命令行，执行python3 main.py(注意脚本路径)
 
 如果嫌麻烦推荐使用方法二
 
