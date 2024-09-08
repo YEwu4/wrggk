@@ -101,7 +101,7 @@ def tapstartstudy(id, cid):
         rf"<a href='/Viewer/CourseExam.aspx\?id={id}&sid=(.*?)&mid=(.*?)&courseClassId={cid}&chapterId=(.*?)&pid=(.*?)' target=",
         response.text)
 
-    # 课程考试
+    
     examurl2 = re.findall(
         rf'<a  href="/Viewer/CourseExam.aspx\?id={id}&sid=(.*?)&mid=(.*?)&courseClassId={cid}&chapterId=(.*?)&pid=(.*?)" target=',
         response.text)
@@ -210,18 +210,12 @@ def viewanswer(classid, stepid, paperid, courseid, userid, username):
         headers=headers,
         verify=False,
     )
-    # 正确答案为：(.* ?)\n
     answer = re.findall(rf'正确答案为：(.* ?)\n', response.text)
     answerid = re.findall(rf'id="result(.*?)"', response.text)
     answervalue = re.findall(rf'(A|B|C|D|E|F|).<input name="questionInfoID_(.*?)" value="(.*?)"', response.text)
     endexamurl = re.findall(rf'<form name="form1" action="checkpaper.aspx(.*?)"', response.text)
     jiandati = re.findall(r"简答题", response.text)
-    # print(answervalue)
-    # print(endexamurl)
-    print(answer)
-    print(answerid)
-    print(answervalue)
-    print(answer)
+
     return answer, answerid, answervalue, endexamurl, jiandati
 
 
