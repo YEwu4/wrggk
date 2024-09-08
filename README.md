@@ -1,6 +1,8 @@
 # 武软e学堂
 基于Python3实现的武软e学堂（网页以及apk）刷课脚本-**全版本通杀**
 
+实现功能：
+
 [√] 自动刷视频
 
 [√] 自动答题
@@ -18,4 +20,4 @@
 
 下载右方[Releases](https://github.com/wwww123ewqeqw/wrggk/releases)中的.exe可执行文件到桌面，双击进入程序输入账号密码即可。
 
-或点击此处[点我下载exe程序](https://github.com/wwww123ewqeqw/wrggk/releases)
+或点击此处[点我下载exe程序](https://github.com/wwww123ewqeqw/wrggk/releases/download/v1.0.0/wrggkwhvcse.exe)
