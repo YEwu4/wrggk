@@ -14,7 +14,7 @@
 
 如果嫌麻烦推荐使用方法二
 
-# 使用方法二
+# 使用方法二（推荐使用）
 
 下载右方[Releases](https://github.com/wwww123ewqeqw/wrggk/releases)中的.exe可执行文件到桌面，双击进入程序输入账号密码即可。
 
