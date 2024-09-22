@@ -28,6 +28,6 @@ pip install requests
 
 # 使用方法二（推荐使用）
 
-下载右方[Releases](https://github.com/wwww123ewqeqw/wrggk/releases)中的.exe可执行文件到桌面，双击进入程序输入账号密码即可。
+下载右方[Releases](https://github.com/YEwu4/wrggk/releases)中的.exe可执行文件到桌面，双击进入程序输入账号密码即可。
 
-或点击此处[点我下载exe程序](https://github.com/wwww123ewqeqw/wrggk/releases/download/v1.0.0/wrggkwhvcse.exe)
+或点击此处[点我下载exe程序](https://github.com/YEwu4/wrggk/releases/download/v1.0.0/wrggkwhvcse.exe)
