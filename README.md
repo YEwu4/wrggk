@@ -1,6 +1,6 @@
 # wrggk-武软e学堂
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/wwww123ewqeqw/wrggk/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YEwu4/wrggk/total)
 
 
 基于Python3实现的武软公共课、武软e学堂（网页以及apk）刷课脚本-**全版本通杀**
