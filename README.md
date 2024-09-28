@@ -1,4 +1,4 @@
-# 武软e学堂
+# wrggk
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YEwu4/wrggk/total)
 
