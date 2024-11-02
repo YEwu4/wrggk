@@ -1,5 +1,5 @@
 # wrggk
-
+# 武软已更换学习平台！！！！！！！！
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YEwu4/wrggk/total)
 
 
